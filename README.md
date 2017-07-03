@@ -1,4 +1,4 @@
-# hackathon-vol1 -- NetApp's Hackers Night
+# hackathon-vol1 -- AU Hackathon 2017
 
 ![alt text](https://cloud.githubusercontent.com/assets/917241/20307809/701866c8-ab41-11e6-8709-3fd4c6b0bfd9.png)
 
